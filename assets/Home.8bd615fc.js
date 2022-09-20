@@ -1,4 +1,4 @@
-import{r as l,o as t,c as s,a as e,b as a,w as c,d as o}from"./index.57f1daf1.js";const r={class:"text-gray-900"},_={class:"container py-10 mx-auto text-center min-h-screen grid place-items-center"},d={class:"max-w-lg rounded-2xl mx-auto p-3 space-y-5"},h=e("h1",{class:"text-2xl"},"Potential Medicalian",-1),m=e("h3",null,"22 Batch",-1),p={key:0,class:"px-3"},x=e("br",null,null,-1),u=e("h2",{class:"text-red-500 font-semibold text-lg"}," Marks Distribution ",-1),g=e("pre",null,`
+import{r as l,o as t,c as s,a as e,b as a,w as c,d as o}from"./index.7e0121f7.js";const r={class:"text-gray-900"},_={class:"container py-10 mx-auto text-center min-h-screen grid place-items-center"},d={class:"max-w-lg rounded-2xl mx-auto p-3 space-y-5"},h=e("h1",{class:"text-2xl"},"Potential Medicalian",-1),m=e("h3",null,"22 Batch",-1),p={key:0,class:"px-3"},x=e("br",null,null,-1),u=e("h2",{class:"text-red-500 font-semibold text-lg"}," Marks Distribution ",-1),g=e("pre",null,`
 Biology-30
 Chemistry-25
 Physics-20
@@ -6,7 +6,7 @@ English-15
 Gk-10
 
 Per question mark 1
-Negative mark 0.5
+Negative mark 0.25
 
 Total Question: 100
 Total Marks: 100
